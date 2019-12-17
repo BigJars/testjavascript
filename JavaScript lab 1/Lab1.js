@@ -1,4 +1,4 @@
-var numberOfApples = 11;
+var numberOfApples = 12;
 document.write("The number of apples I have is " + numberOfApples + "<br>");
 numberOfApples++;
 document.write("The number of apples I have is " + numberOfApples + "<br>");
@@ -14,7 +14,7 @@ numberOfApples++;
 
 document.write("<br><br>")
 
-var numberOfNinja = 200;
+var numberOfNinja = 300;
 document.write("There are " + --numberOfNinja + " ninjas in the room. <br>")
 document.write("There are " + --numberOfNinja + " ninjas in the room. <br>")
 document.write("There are " + --numberOfNinja + " ninjas in the room. <br>")
